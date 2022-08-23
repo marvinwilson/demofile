@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('login') {
             steps {
-                echo "Login as JKfile"
+                echo "Login as marvin"
             }
         }
     }
